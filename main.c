@@ -2,7 +2,7 @@
 
 int main(){
     FILE *ptr;
-    ptr = fopen("02_output.txt", "w");
+    ptr = fopen("output.txt", "w");
 
     int table;
     printf("Enter the number: \n");
